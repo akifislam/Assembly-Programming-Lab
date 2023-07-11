@@ -3,7 +3,7 @@
 
 ## Author
 - **Akif Islam, Computer Science & Engineering, University of Rajshahi**
-- **GitHub: [@ahnafshahrear](https://github.com/akifislam)**
+- **GitHub: [@akifislam](https://github.com/akifislam)**
 - **Gmail: iamakifislam@gmail.com**
 
 ## Language
